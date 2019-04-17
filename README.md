@@ -1,2 +1,2 @@
-# star-db
-React app Star-db
+StarDB
+React app 
